@@ -1,0 +1,5 @@
+com\example\ms1\client\FeignDemoClient.class
+com\example\ms1\Ms1PosgresqlApplication.class
+com\example\ms1\repo\ElementRepo.class
+com\example\ms1\controller\AutomatedController.class
+com\example\ms1\model\Element.class
